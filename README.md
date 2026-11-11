@@ -1,7 +1,7 @@
 # sonushettar
 this ismy new repo
 <br>
-hey i am sonu
+hey i am sonu(shettar)
 
 
 
